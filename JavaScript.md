@@ -1,0 +1,1 @@
+**Currying** - a functional programming technique where a function that takes multiple arguments is transformed into a series of functions, each taking one argument at a time and returning another function until all arguments are provided.
