@@ -1,1 +1,3 @@
 **Currying** - a functional programming technique where a function that takes multiple arguments is transformed into a series of functions, each taking one argument at a time and returning another function until all arguments are provided.
+
+**Polyfill** - A polyfill is a piece of code (usually JavaScript) that adds modern functionality to older browsers that don’t support it natively. For example, if Array.prototype.includes isn’t available in older browsers, a polyfill provides an alternative implementation so the feature works. I don’t remember the exact code right now, but I know it involves checking if the method exists and defining it if not. In real projects, we often use libraries like core-js or polyfill.io to handle this reliably.
